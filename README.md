@@ -2,7 +2,7 @@
 Various symbols to be used in OPI screens at ESS.
 
 # Template
-An Omnigraffle verion of the control system template from ESS.  The original is in a powerpoint file.
+An Omnigraffle and DRAW.IO verion of the control system template from ESS.  The original is in a powerpoint file.
 
 # Source
 https://gitlab.esss.lu.se/ics-software/ess-symbols/-/tree/master
